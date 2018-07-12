@@ -1,5 +1,5 @@
 
-import { NativeModules } from 'react-native';
+import { NativeModules, AppRegistry } from 'react-native';
 
 const { RNPeriodicJob } = NativeModules;
 

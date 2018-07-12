@@ -10,8 +10,9 @@
     "react-native"
   ],
   "author": "",
-  "license": "MIT",
-  "dependencies": {
+  "license": "",
+  "peerDependencies": {
     "react-native": "^0.55.4"
-  }
+  },
+
 }
